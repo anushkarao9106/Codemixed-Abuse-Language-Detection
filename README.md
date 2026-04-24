@@ -93,17 +93,6 @@ The model performs reasonably well across languages:
 
 ---
 
-## Notebook
-
-You can also refer to the notebook:
-
-```id="f3yx0d"
-Tamil_Eng_training.ipynb
-```
-
-Make sure to **clear outputs before running/uploading** to avoid large file size.
-
----
 
 ## Installation
 
